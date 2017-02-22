@@ -11,6 +11,21 @@ body {
 	background-color: black;
 	color: white;
 }
+textarea {
+	width: 300px;
+	height: 40px;border-color: white;
+	padding: 5px;
+	font-size: 30px;
+	background-color: black;
+	color: white;
+	border-right: black;
+	border-left: black;
+	border-top: black;
+	text-align: center;
+	vertical-align: text-bottom;
+
+
+}
 .container{
 	font-size: 40px;
 }
@@ -29,6 +44,7 @@ body {
 	padding: 10px;
 	margin-right: 361px;
 	text-align: center;
-
-
+}
+.word{
+	
 }
